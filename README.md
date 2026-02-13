@@ -51,6 +51,7 @@ Milwaukee city planners needed data-driven evidence to justify $180,000 in fundi
 - Excluded: traffic violations, ordinance violations, non-index offenses
 
 ### Geospatial Analysis
+
 <img src="visuals/harambee_map.png" alt="Harambee Map" width="400" height ="400>
 
 **Coordinate System:** EPSG:3071 (Wisconsin State Plane, meters)
@@ -86,6 +87,7 @@ Area-normalization accounts for unequal buffer vs. non-buffer zones (buffer zone
 |------|---------------------|----------------------|
 | Inside Buffers (0.1 mi) | -10.3% | -15.4% |
 | Outside Buffers | +18.4% | +0.5% |
+
 **Interpretation:** Crime reduction was hyperlocal to healing space sites. The rest of Harambee saw violent crime increase 18.4%, suggesting the effect is attributable to the intervention rather than neighborhood-wide trends.
 
 ![Crime Density Comparison](visuals/crime_density_plot.png)
