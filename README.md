@@ -4,7 +4,7 @@ Geospatial cost-benefit analysis quantifying the impact of urban greening initia
 
 **Key Finding:** 2:1 return on investment. 10.3% reduction in violent crime density within 0.1 miles of healing space sites.
 
-[Live Dashboard](https://anp4it-carterfike.shinyapps.io/cleanapp_backup/) | [LinkedIn](www.linkedin.com/in/carter-fike-870320226)
+[Live Dashboard](https://anp4it-carterfike.shinyapps.io/cleanapp_backup/) | [LinkedIn](https://www.linkedin.com/in/carter-fike-870320226)
 
 ---
 
@@ -222,7 +222,7 @@ Features:
 
 **Carter Fike**  
 Email: carterfike@outlook.com  
-LinkedIn: [Your Profile](www.linkedin.com/in/carter-fike-870320226)
+LinkedIn: [Your Profile](https://www.linkedin.com/in/carter-fike-870320226)
 
 ---
 
