@@ -116,7 +116,7 @@ cat("\nCreating buffer zones...\n")
 buffer_dist <- 160.9  # 0.1 mile in meters
 
 # Create buffers around each healing space
-buffers_proj <- st_buffer(healing_sf_proj, dist = buffer_dist)
+buffers_proj <- st_buffer(healing_sf_harambee, dist = buffer_dist)
 combined_buffer_proj <- st_make_valid(st_union(buffers_proj))
 
 # Transform back to WGS84 for visualization
