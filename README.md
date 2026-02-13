@@ -5,7 +5,7 @@ Geospatial cost-benefit analysis quantifying the impact of urban greening initia
 **Key Finding:** 2:1 return on investment. 10.3% reduction in violent crime density within 0.1 miles of healing space sites.
 
 [Live Dashboard](https://anp4it-carterfike.shinyapps.io/cleanapp_backup/) | [LinkedIn](https://www.linkedin.com/in/carter-fike-870320226)
-
+**Note:** First load may take 10-15 seconds as the app loads 129,617 crime records and performs spatial preprocessing (via global.R). Subsequent visits are faster due to server caching. This is normal for Shiny apps on free hosting tier.
 ---
 
 ## Problem Statement
@@ -222,7 +222,7 @@ Features:
 
 **Carter Fike**  
 Email: carterfike@outlook.com  
-LinkedIn: [Your Profile](https://www.linkedin.com/in/carter-fike-870320226)
+LinkedIn: [Carter Fike](https://www.linkedin.com/in/carter-fike-870320226)
 
 ---
 
