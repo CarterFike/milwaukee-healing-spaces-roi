@@ -52,6 +52,7 @@ Milwaukee city planners needed data-driven evidence to justify $180,000 in fundi
 
 ### Geospatial Analysis
 ![Harambee Healing Spaces Map](visuals/harambee_map.png)
+<img src="visuals/harambee_map.png" alt="Harambee Map" width="800">
 
 **Coordinate System:** EPSG:3071 (Wisconsin State Plane, meters)
 - Standard lat/long (EPSG:4326) creates distortion in buffer radii
@@ -86,8 +87,9 @@ Area-normalization accounts for unequal buffer vs. non-buffer zones (buffer zone
 |------|---------------------|----------------------|
 | Inside Buffers (0.1 mi) | -10.3% | -15.4% |
 | Outside Buffers | +18.4% | +0.5% |
-![Crime Density Comparison](visuals/crime_density_plot.png)
 **Interpretation:** Crime reduction was hyperlocal to healing space sites. The rest of Harambee saw violent crime increase 18.4%, suggesting the effect is attributable to the intervention rather than neighborhood-wide trends.
+
+![Crime Density Comparison](visuals/crime_density_plot.png)
 
 **Raw Numbers:**
 - Inside buffers: 233 → 209 violent crimes (Pre → Post)
@@ -158,8 +160,8 @@ milwaukee-healing-spaces-roi/
 
 ## Interactive Dashboard
 
-[**View Live Dashboard**](https://anp4it-carterfike.shinyapps.io/cleanapp_backup/)
 ![Dashboard Screenshot](visuals/dashboard_screenshot.png)
+[**View Live Dashboard**](https://anp4it-carterfike.shinyapps.io/cleanapp_backup/)
 
 Features:
 - Crime heatmap (2018-2023, toggle violent/property crimes)
