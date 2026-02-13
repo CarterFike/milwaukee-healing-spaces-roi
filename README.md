@@ -52,7 +52,7 @@ Milwaukee city planners needed data-driven evidence to justify $180,000 in fundi
 
 ### Geospatial Analysis
 
-<img src="visuals/harambee_map.png" alt="Harambee Map" width="400" height ="400>
+<img src="visuals/harambee_map.png" alt="Harambee Map" width="400" height ="400">
 
 **Coordinate System:** EPSG:3071 (Wisconsin State Plane, meters)
 - Standard lat/long (EPSG:4326) creates distortion in buffer radii
